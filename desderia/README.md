@@ -6,6 +6,7 @@ Two deliverables, one platform:
 |---|---|
 | `desderia_web.zip` | Django 5.2 web app, staff desk, management portal and the REST API the mobile app uses |
 | `desderia_mobile.zip` | Flutter app for Android and iOS (customer app) |
+| `Desderia_User_Guide.pdf` | Illustrated step by step guide: website, sign in, customer area, mobile app, staff desk, audit and the management panel |
 
 Unzip each and start with its `README.md`. Inside the web project:
 
