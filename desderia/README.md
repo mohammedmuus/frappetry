@@ -15,7 +15,7 @@ Unzip each and start with its `README.md`. Inside the web project:
 
 ## What it does
 
-Customers open an account with email and phone (both verified by code), sign in with password plus a one time code, request currency at the live rate (locked while the desk reviews), negotiate larger amounts, pay by CashPay, bank transfer or cash, and receive by bank wire, mobile money or cash pickup. Every request has its own chat with the desk, every status change is emailed, and every action lands in a hash chained audit trail.
+Customers open an account with email and phone (both verified by code), sign in with password plus a one time code, request currency at the live rate (locked while the desk reviews), negotiate larger amounts, pay by CashPay (USSD prompt to M-Pesa, Mixx by Yas or Airtel Money), bank transfer or cash, and receive by bank wire, mobile money or cash pickup. Every request has its own chat with the desk, every status change is emailed, and every action lands in a hash chained audit trail.
 
 Staff work from the desk: queue, approvals, counter offers, funds confirmation, payouts with dual control, KYC review, rate publishing, currency balances and ledger, chat inbox, and branded Excel reports. Administrators manage everything at `/management/`.
 
